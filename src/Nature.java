@@ -13,15 +13,14 @@ public class Nature {
 
         Eagle hawkeye = new Eagle("Hawkeye");
         // TODO : uncomment the following code in order to test it
-        /*
+
         hawkeye.takeOff();
-        hawkeye.ascend(120);
-        hawkeye.ascend(30);
+        hawkeye.ascend(777);
+        hawkeye.ascend(240);
         hawkeye.glide();
-        hawkeye.descend(140);
+        hawkeye.descend(1000);
         hawkeye.land();
-        hawkeye.descend(9);
+        hawkeye.descend(16);
         hawkeye.land();
-        */
     }
 }
